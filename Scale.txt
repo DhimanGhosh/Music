@@ -1,0 +1,80 @@
+Maj Scale <Formula>: T T S T T T S	(T=Tone, S=Semi-tone)
+		    1 2 3 4 5 6 7 1/8	(OCTAVE)
+
+
+Maj Scale:
+A: A  B  C#  D  E  F#  G#  A
+B: B  C# D#  E  F# G#  A#  B
+C: C  D  E   F  G  A   B   C
+D: D  E  F#  G  A  B   C#  D
+E: E  F# G#  A  B  C#  D#  E
+F: F  G  A   A# C  D   E   F
+G: G  A  B   C  D  E   F#  G
+
+
+
+
+Maj Chord <Formula>: 1st 3rd 5th
+
+
+Sus <Meaning>: "3rd note is always suspended (removed)"
+
+
+Sus2 <Formula>:					Sus4(Sus) <Formula>:
+1st 2nd 5th						1st 4th 5th
+
+
+
+
+Maj Chords:
+A: A C# E
+B: B D# F#
+C: C E  G
+D: D F# A
+E: E G# B
+F: F A  C
+G: G B  D
+
+
+
+
+Sus2 Chords:					Sus4(Sus) Chords:
+C: C D  [G]	(Gsus)				G: G [C]  D	(Csus2)
+D: D E  [A]	(Asus)				A: A [D]  E	(Dsus2)
+E: E F# [B]	(Bsus)				B: B [E]  F#(Esus2)
+F: F G  [C]	(Csus)				C: C [F]  G	(Fsus2)
+G: G A  [D]	(Dsus)				D: D [G]  A	(Gsus2)
+A: A B  [E]	(Esus)				E: E [A]  B	(Asus2)
+B: B C# [F#](Fsus = 1S down)	F: F [A#] C	(Bsus2 = 1S up)
+
+
+Maj Add9 <Formula>: "2nd note of next octave is added to the maj chord"
+
+Maj Add9 Chords:
+A: A C# E  B2
+B: B D# F# C#2
+C: C E  G  D2
+D: D F# A  E2
+E: E G# B  F#2
+F: F A  C  G2
+G: G B  D  A2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Power Chord <Formula>: 1st 5th
