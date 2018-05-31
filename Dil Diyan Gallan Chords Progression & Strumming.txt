@@ -1,0 +1,164 @@
+Dil Diyan Gallan - Chords Progression & Strumming (Detailed Pattern): (Capo 1st Fret)
+_____________________________________________________________________________________
+
+Scale: B
+Chords: C, Am, F, G, Dm, Em
+
+Rhythm Pattern: 3/4
+Filler: (DU)
+Easy Strumming: DDU M D		UDU M
+			  (DU)
+		DDU M D		UDU M
+
+
+Rhythm Pattern: Heart-Beat
+Original Strumming Pattern:
+'Kick + Strum'		['Thumb 	- on body'
+			 'Finger	- on Fretboard with string on body'
+			 'Kick'
+			 'Strum + Snare'] X2
+
+Strumming: (D-1231)
+e--|----------------------------------------------------------------
+B--|----------------------------------------------------------------
+G--|----------------------------------------------------------------
+D--|---------3T-----------------------------------------------------
+A--|------2T--------------------------------------------------------
+E--V---1T--------4T-------------------------------------------------
+
+Strumming: (D-1231)
+{
+	       D		 Bm
+	Kacchi doriyon, doriyon, doriyon se
+	      G		  D
+	Mainu tu baandh le...
+	      D			  Bm
+	Pakki yaariyon, yaariyon, yaariyon mein
+	      G		D
+	Honde na faasley...
+
+	   Bm		   A
+	Eh naraazgi kaagzi saari teri
+	     G			 [A]-D X1
+	Mere sohneya sunn le meri
+}
+
+Strumming:
+{
+		  C
+	Dil diyan gallan
+		      Am
+	Karaange naal naal beh ke
+	F	  G	 C
+	Akh naale akh nu milaa ke
+	
+		  C
+	Dil diyan gallan haaye…
+		     Am
+	Karaange roz roz beh ke
+	F	  G	      C
+	Sacchiyan mohabbataan nibha ke
+	
+		      Am
+	Sataaye mainu kyun
+		       C
+	Dikhaaye mainu kyun
+	      F		    G	    C
+	Aiven jhuthi mutthi russ ke rusaake
+	
+		  C
+	Dil diyan gallan haaye
+		      Am
+	Karaange naal naal beh ke
+	F	  G	 C
+	Akh naale akh nu mila ke
+}
+
+Harmonica Arpeggios:
+e-------------------------------------------------------------------
+B-------------------------------------------------------------------
+G-------------------------------------------------------------------
+D-------------------------------------------------------------------
+A-------------------------------------------------------------------
+E-------------------------------------------------------------------
+
+Strumming: (D-1231)
+{
+	     C
+	Tenu lakhan ton chhupa ke rakhaan
+	Am			  F
+	Akkhaan te sajaa ke tu ae meri wafaa
+	     Dm
+	Rakh apna bana ke
+	     Em
+	Main tere layi aan
+		      F
+	Tere layi aan yaaran
+		       [C]-D X1
+	Naa paavin kade dooriyan
+}
+
+Strumming:
+{
+	     C
+	Tenu lakhan ton chhupa ke rakhaan
+	Am			  F
+	Akkhaan te sajaa ke tu ae meri wafaa
+	     Dm
+	Rakh apna bana ke
+	     Em
+	Main tere layi aan
+		      F
+	Tere layi aan yaaran
+			C
+	Naa paavin kade dooriyan...
+}
+
+Strumming: DDDDDD....
+{
+		       [F]-D X8		[G]-D X8	[Am]-D X16
+	Main jeena haan tera...
+		       [F]-D X1
+	Main jeena haan tera
+		    [Am]-D X1
+	Tu jeena hai mera
+	    [G]-D X1	   [F]-D D D
+	Dass lena ki nakhra dikha ke
+}
+
+Strumming:
+{
+		  C
+	Dil diyan gallan
+		      Am
+	Karaange naal naal beh ke
+	F	  G	 C
+	Akh naale akh nu milaa ke
+	
+		  C
+	Dil diyan gallan
+}
+
+
+
+
+
+
+Raatan kaaliyan, kaaliyan, kaaliyan ne
+Mere dil saanwle
+Mere haaniyan, haaniyan, haaniyan je
+Lagge tu na gale
+
+Mera aasmaan mausamaan di na sune
+Koi khwaab na poora bane
+Dil diyan gallan
+Karange naal naal beh ke
+Akh naale akh nu mila ke
+
+Pataa hai mainu kyun chupa ke dekhe tu
+Mere naam se naam mila ke
+Dil diyan gallan
+Karange naal naal beh ke
+Akh naale akh nu mila ke
+
+Dil diyan gallan…
