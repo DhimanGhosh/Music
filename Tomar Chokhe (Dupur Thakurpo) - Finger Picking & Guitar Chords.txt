@@ -1,0 +1,56 @@
+Tomar Chokhe (Dupur Thakurpo) - My Own Guitar Chords:
+
+Capo: 5th Fret
+Strumming: D UDU (S -> Start)
+
+Finger-Picking: (S -> Start)
+5 23443 1
+
+INTRO: Amaj (Finger-Picking)
+[4 times]
+
+SONG: (Finger-Picking)
+{
+S            S         S         S
+Tomar chokhe ek-poloke dubte chai
+S            S
+Gaaner shure kon sudure
+S            S
+Shob harai...
+
+S           S
+Tomay khuji shopne bujhi
+S        S
+songgopon
+S             S
+Bondho khaame tomar naame
+S           S
+likhechi mon
+}
+
+SONG: (All single-pair down strum)
+{
+A            A           A    A
+	Din gulo shore shore jaay
+Asus2    Asus2        Asus2	Asus2
+	Tomar oi chokheri mayay
+A             A           A    A
+	Raat gulo shore shore jaay
+Asus2        Asus2   Asus2	Asus2
+	Tomar oi chuleri chayay
+}
+
+SONG: (Strumming)
+{
+A        A
+Shono...
+
+Am	Asus2                 Asus2
+	E jibon tomakei chaay
+
+A        A
+Shono...
+
+Am  Asus2                  Asus2
+	Mon mojey tomari mayay (x2)
+}
